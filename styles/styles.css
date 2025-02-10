@@ -1,0 +1,78 @@
+body {
+      background-color: hsl(47, 88%, 63%);
+      font-family: Figtree;
+      margin-top: 10%;
+      
+}
+
+p {
+      font-size: 16px;
+}
+
+
+
+.card {
+      background-color: hsl(0, 0%, 100%);
+      max-width: 30%;
+      padding: 30px;
+      border-right: 6px solid #000;
+      border-bottom: 6px solid #000;
+      border-radius: 10px;
+      margin: auto;
+
+}
+.fig1 {      
+      border-radius: 10px;
+      width: 100%;
+}
+
+button {
+      border: 0px;
+      border-radius: 10px;
+      padding: 10px;
+      margin-top: 20px;
+      font-weight: 600;
+      background-color: hsl(47, 88%, 63%);
+}
+
+.pub {
+      color: hsl(0, 0%, 7%);
+}
+.foundation {
+      color: hsl(0, 0%, 7%);
+      font-weight: 800;
+      text-decoration: none;
+      
+}
+
+a {
+      color: hsl(0, 0%, 7%);
+      text-decoration: none;
+}
+.foundation a:hover {
+
+      color: hsl(47, 88%, 63%);
+      cursor: pointer;
+}
+
+
+.lang {
+      color: hsl(0, 0%, 42%);
+}
+
+.fig2 {
+      width: 6%;
+      padding-right: 8px;
+}
+
+.greg {
+      font-weight: 800;
+      display: flex;
+      align-items: center;      
+}
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
